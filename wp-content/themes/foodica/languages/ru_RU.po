@@ -1,0 +1,1231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Compass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Feb 15 2015 14:30:19 GMT+0200 (EET)\n"
+"PO-Revision-Date: Sat Apr 02 2016 22:08:53 GMT+0300 (EEST)\n"
+"Last-Translator: Pavel Ciorici <cioricip@gmail.com>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: ru_RU"
+
+#: ../functions/functions.php:271
+msgid "Additional Profile Information"
+msgstr ""
+
+#: ../functions/functions.php:277
+msgid "Twitter Username"
+msgstr ""
+
+#: ../functions/functions.php:281
+msgid "Please enter your Twitter username"
+msgstr ""
+
+#: ../functions/functions.php:286
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: ../functions/functions.php:290
+msgid "Please enter your Facebook profile URL"
+msgstr ""
+
+#: ../functions/functions.php:295
+msgid "Instagram Username"
+msgstr ""
+
+#: ../functions/functions.php:299
+msgid "Please enter your Instagram username"
+msgstr ""
+
+#: ../functions/post-options.php:83
+msgid "Feature in Homepage Slider"
+msgstr ""
+
+#: ../functions/template-tags.php:30
+msgid "Reply"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:428
+msgid "All"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:429
+msgid "Cyrillic"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:430
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:431
+msgid "Devanagari"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:432
+msgid "Greek"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:433
+msgid "Greek Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:434
+msgid "Khmer"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:435
+msgid "Latin"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:436
+msgid "Latin Extended"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:437
+msgid "Vietnamese"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:525
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:527
+msgid "Google Fonts"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:553
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:557
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: ../functions/customizer/helpers-fonts.php:561
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:28
+msgid "Logo Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:39
+msgid "Logo Color on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:49 ..
+#: functions/customizer/sections/typography.php:144
+msgid "Site Description"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:60
+msgid "Link Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:70
+msgid "Link Color on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:80
+msgid "Buttons Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:90
+msgid "Buttons Text Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:100
+msgid "Buttons Background on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:110
+msgid "Buttons Text Color on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:129
+msgid "Menu Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:170
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:171
+msgid ""
+"If you don't have Social Icons in the top bar, just install the plugin  <a "
+"href=\"https://wordpress.org/plugins/social-icons-widget-by-wpzoom/\" "
+"target=\"_blank\">Social Icons Widget by WPZOOM</a>, and then add the "
+"<strong>Social Icons</strong> widget in the <strong>Header Social "
+"Icons</strong> widget area on <strong>Widgets</strong> page."
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:191
+msgid "Main Menu Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:231
+msgid "Search Icon Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:241
+msgid "Search Icon Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:251
+msgid "Search Icon Background on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:261
+msgid "Search Icon Color on Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:271
+msgid "Featured Slider"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:300
+msgid "Category Link"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:310
+msgid "Category Link Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:351
+msgid "Button Text"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:361
+msgid "Button Text Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:371
+msgid "Button Border"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:381
+msgid "Button Border Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:420
+msgid "Post Category"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:430
+msgid "Post Category Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:470
+msgid "Read More Button Text"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:480
+msgid "Read More Button Text Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:490
+msgid "Read More Button Border"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:500
+msgid "Read More Button Border Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:510
+msgid "Page Navigation"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:519
+msgid "Jetpack Infinite Scroll Button"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:520
+msgid ""
+"If you have the Infinite Scroll feature enabled, you can change here the "
+"color of the \"Older Posts\" button. You can find more instructions in <a "
+"href=\"http://www.wpzoom.com/documentation/tempo/#infinite\" "
+"target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:530
+msgid "Jetpack Infinite Scroll Button Hover"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:542
+msgid "Individual Posts and Pages"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:551
+msgid "Post/Page Title"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:591
+msgid "Post/Page Text Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:601
+msgid "Ingredients Shortcode Background"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:611
+msgid "Ingredients Shortcode Title"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:621
+msgid "Ingredients Shortcode Text Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:631
+msgid "Ingredients Shortcode Divider Color"
+msgstr ""
+
+#: ../functions/customizer/sections/color-scheme.php:642
+msgid "Widgets"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:37 ..
+#: functions/customizer/sections/typography.php:89 ..
+#: functions/customizer/sections/typography.php:152 ..
+#: functions/customizer/sections/typography.php:216 ..
+#: functions/customizer/sections/typography.php:281 ..
+#: functions/customizer/sections/typography.php:344 ..
+#: functions/customizer/sections/typography.php:468 ..
+#: functions/customizer/sections/typography.php:531 ..
+#: functions/customizer/sections/typography.php:592 ..
+#: functions/customizer/sections/typography.php:653
+msgid "Font Family"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:47 ..
+#: functions/customizer/sections/typography.php:99 ..
+#: functions/customizer/sections/typography.php:162 ..
+#: functions/customizer/sections/typography.php:227 ..
+#: functions/customizer/sections/typography.php:292 ..
+#: functions/customizer/sections/typography.php:354 ..
+#: functions/customizer/sections/typography.php:478 ..
+#: functions/customizer/sections/typography.php:541 ..
+#: functions/customizer/sections/typography.php:602 ..
+#: functions/customizer/sections/typography.php:663
+msgid "Font Size (in px)"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:57 ..
+#: functions/customizer/sections/typography.php:109 ..
+#: functions/customizer/sections/typography.php:172 ..
+#: functions/customizer/sections/typography.php:237 ..
+#: functions/customizer/sections/typography.php:302 ..
+#: functions/customizer/sections/typography.php:364 ..
+#: functions/customizer/sections/typography.php:426 ..
+#: functions/customizer/sections/typography.php:487 ..
+#: functions/customizer/sections/typography.php:550 ..
+#: functions/customizer/sections/typography.php:611 ..
+#: functions/customizer/sections/typography.php:672
+msgid "Font Weight"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:68 ..
+#: functions/customizer/sections/typography.php:120 ..
+#: functions/customizer/sections/typography.php:183 ..
+#: functions/customizer/sections/typography.php:248 ..
+#: functions/customizer/sections/typography.php:313 ..
+#: functions/customizer/sections/typography.php:375 ..
+#: functions/customizer/sections/typography.php:437 ..
+#: functions/customizer/sections/typography.php:498 ..
+#: functions/customizer/sections/typography.php:561 ..
+#: functions/customizer/sections/typography.php:622 ..
+#: functions/customizer/sections/typography.php:683
+msgid "Font Style"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:131 ..
+#: functions/customizer/sections/typography.php:194 ..
+#: functions/customizer/sections/typography.php:259 ..
+#: functions/customizer/sections/typography.php:324 ..
+#: functions/customizer/sections/typography.php:386 ..
+#: functions/customizer/sections/typography.php:448 ..
+#: functions/customizer/sections/typography.php:509 ..
+#: functions/customizer/sections/typography.php:572 ..
+#: functions/customizer/sections/typography.php:633 ..
+#: functions/customizer/sections/typography.php:694
+msgid "Text Transform"
+msgstr ""
+
+#: ../functions/customizer/sections/typography.php:337
+msgid "Post Title in Slider"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:115
+msgid ""
+"SEO Settings were removed from WPZOOM Framework as it was announced in the "
+"previous update."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:118
+msgid ""
+"Recommended replacement plugin is <a href=\"http://wordpress."
+"org/plugins/wordpress-seo/\" target=\"_blank\">Yoast SEO</a>."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/admin.php:121
+msgid ""
+"If you're using our themes on a multisite install don't forget to notify "
+"your users about this change."
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-fields.php:369
+#, php-format
+msgid ""
+"<p>This option has been deprecated in favor of the Site Icon setting in "
+"WordPress core. Please visit %s to configure your site icon.</p>"
+msgstr ""
+
+#: ../functions/wpzoom/components/admin/settings-fields.php:372
+msgid "General Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Archives Page"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page"
+msgstr ""
+
+#. Name of the theme
+msgid "Foodica"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.wpzoom.com/themes/foodica"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Foodica is a theme for sites with food recipes, but can be used for a blog "
+"or a magazine too."
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.wpzoom.com"
+msgstr ""
+
+#: ../404.php:9
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: ../comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:19
+msgid "No Comments"
+msgstr "Комментариев пока нет"
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:19
+#, php-format
+msgid "% Comments"
+msgstr "Число комментариев: %"
+
+#: ../comments.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые комментарии"
+
+#: ../comments.php:35
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые комментарии <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr "Комментирование отключено."
+
+#: ../comments.php:60
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:67
+msgid "Email Address"
+msgstr "Электронная почта"
+
+#: ../comments.php:72
+msgid "Website"
+msgstr "Сайт"
+
+#: ../comments.php:76
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../comments.php:79
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr "Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Выйти?</a>"
+
+#: ../comments.php:80
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:81
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../comments.php:82
+msgid "Post Comment"
+msgstr "Опубликовать"
+
+#: ../content-archive.php:28 ../content-sticky.php:27 ../content.php:28
+msgid "by"
+msgstr "от"
+
+#: ../content-archive.php:29 ../content-sticky.php:28 ../content.php:29 ../wpzoom-
+#: slider.php:51 ../functions/widgets/featured-category.php:99
+msgid "0 comments"
+msgstr "0 комментариев"
+
+#: ../content-archive.php:29 ../content-sticky.php:28 ../content.php:29 ../wpzoom-
+#: slider.php:51 ../functions/widgets/featured-category.php:99
+msgid "1 comment"
+msgstr "1 комментарий"
+
+#: ../content-archive.php:29 ../content-sticky.php:28 ../content.php:29 ../wpzoom-
+#: slider.php:51 ../functions/widgets/featured-category.php:99
+#, php-format
+msgid "% comments"
+msgstr "Число комментариев: %"
+
+#: ../content-archive.php:29 ../content-sticky.php:28 ../content.php:29 ../wpzoom-
+#: slider.php:51 ../functions/widgets/featured-category.php:99
+msgid "Comments are Disabled"
+msgstr "Комментарии отключены"
+
+#: ../content-archive.php:32 ../content-page.php:13 ../content-single.php:38 ..
+#: content-sticky.php:31 ../content.php:32 ../functions/template-tags.php:31 ..
+#: page-templates/archives.php:20
+msgid "Edit"
+msgstr "Изменить"
+
+#: ../content-archive.php:37 ../content-sticky.php:36 ../content.php:37 ../wpzoom-
+#: slider.php:64
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: ../content-archive.php:47 ../content-sticky.php:46 ../content.php:47 ../wpzoom-
+#: slider.php:64
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: ../content-archive.php:47 ../content-sticky.php:46 ../content.php:47
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: ../content-none.php:10
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы написать свою первую запись? <a href=\"%1$s\">Вперёд</a>!"
+
+#: ../content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"К сожалению, ничего не подошло под ваш поисковый запрос. Попробуйте искать "
+"по другим словам."
+
+#: ../content-none.php:23
+msgid ""
+"It seems that we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск по сайту."
+
+#: ../content-page.php:22 ../content-single.php:71
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../content-single.php:32
+msgid "Written by"
+msgstr "Автор:"
+
+#: ../content-single.php:34
+msgid "on"
+msgstr "дата:"
+
+#: ../content-single.php:36
+msgid "in"
+msgstr "рубрики:"
+
+#: ../content-single.php:79
+msgid "<h4>Tags</h4>"
+msgstr "<h4>Метки</h4>"
+
+#: ../content-single.php:89
+msgid "Tweet this on Twitter"
+msgstr "Твитнуть в Twitter"
+
+#: ../content-single.php:91
+msgid "Share this on Facebook"
+msgstr "Поделиться на Facebook"
+
+#: ../content-single.php:93
+msgid "Post this to Google+"
+msgstr "Опубликовать на Google+"
+
+#: ../content-single.php:96
+msgid "Pin it to Pinterest"
+msgstr "Прикрепить на Pinterest"
+
+#: ../footer.php:74
+#, php-format
+msgid "&mdash; Designed by %s"
+msgstr "&mdash; Разработано %s"
+
+#: ../pagination.php:11
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущее"
+
+#: ../pagination.php:12
+msgid "Next &rarr;"
+msgstr "Следующее &rarr;"
+
+#: ../search.php:7
+msgid "Search Results for"
+msgstr "Искать"
+
+#: ../searchform.php:2
+msgid "Enter your keywords..."
+msgstr "Введите ключевые слова..."
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: ../wpzoom-slider.php:82
+msgid "You are now ready to set-up your Slideshow content."
+msgstr "Теперь всё готово для настройки содержимого слайдшоу."
+
+#: ../wpzoom-slider.php:87
+#, php-format
+msgid ""
+"For more information about adding posts to the slider, please <a "
+"href=\"%1$s\">read the documentation</a>"
+msgstr ""
+"За дополнительной информацией о добавлении записей в слайдер обращайтесь в "
+"<a href=\"%1$s\">документацию</a>"
+
+#: ../functions/functions.php:57 ../functions/customizer/sections/color-scheme.
+#: php:120 ../functions/customizer/sections/typography.php:209
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: ../functions/functions.php:58 ../functions/customizer/sections/color-scheme.
+#: php:182 ../functions/customizer/sections/typography.php:274
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: ../functions/functions.php:59 ../functions/customizer/sections/typography.php:
+#: 646
+msgid "Footer Menu"
+msgstr "Меню в footer"
+
+#: ../functions/functions.php:204 ../functions/functions.php:255
+msgid "Ingredients"
+msgstr "Ингредиенты"
+
+#: ../functions/functions.php:213 ../functions/functions.php:256
+msgid "Directions"
+msgstr "Указания"
+
+#: ../functions/functions.php:252
+msgid "WPZOOM Recipe Ingredients Shortcode"
+msgstr "Короткий код ингредиента WPZOOM"
+
+#: ../functions/functions.php:253
+msgid "WPZOOM Recipe Directions Shortcode"
+msgstr "Короткий код указания WPZOOM"
+
+#: ../functions/functions.php:254
+msgid "Place your list items here"
+msgstr "Поместите элементы списка сюда"
+
+#: ../functions/template-tags.php:29
+#, php-format
+msgid "%s at %s"
+msgstr "%s в %s"
+
+#: ../functions/template-tags.php:39
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает модерации"
+
+#: ../functions/template-tags.php:54
+msgid "Pingback:"
+msgstr "Пингбэк:"
+
+#: ../functions/template-tags.php:54
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: ../functions/woocommerce.php:25 ../functions/woocommerce.php:37
+msgid "View your shopping cart"
+msgstr "Показать корзину"
+
+#: ../functions/woocommerce.php:25
+#, php-format
+msgid "%d item &ndash; "
+msgid_plural "%d items &ndash; "
+msgstr[0] "%d товар &ndash;"
+msgstr[1] "%d товара &ndash;"
+msgstr[2] "%d товаров &ndash;"
+
+#: ../functions/woocommerce.php:37
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d товар"
+msgstr[1] "%d товара"
+msgstr[2] "%d товаров"
+
+#: ../functions/customizer/customizer.php:184 ..
+#: functions/customizer/sections/color-scheme.php:9
+msgid "General"
+msgstr "Главная"
+
+#: ../functions/customizer/customizer.php:185
+msgid "Homepage"
+msgstr "Домашняя страница"
+
+#: ../functions/customizer/customizer.php:186
+msgid "Typography"
+msgstr "Типографика"
+
+#: ../functions/customizer/customizer.php:187
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: ../functions/customizer/customizer.php:188
+msgid "Header"
+msgstr "Header"
+
+#: ../functions/customizer/customizer.php:189 ..
+#: functions/customizer/sections/color-scheme.php:661 ..
+#: functions/customizer/sections/footer.php:13
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions/customizer/helpers-defaults.php:181
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Авторское право &copy; %1$s %2$s"
+
+#: ../functions/customizer/helpers-fonts.php:471
+msgid "Loading&hellip;"
+msgstr "Загрузка&hellip;"
+
+#: ../functions/customizer/sections/background.php:10
+msgid "Site Background"
+msgstr "Фон сайта"
+
+#: ../functions/customizer/sections/background.php:16
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../functions/customizer/sections/color-scheme.php:18
+msgid "Body Text"
+msgstr "Текст body"
+
+#: ../functions/customizer/sections/color-scheme.php:139 ..
+#: functions/customizer/sections/color-scheme.php:201
+msgid "Menu Item"
+msgstr "Элемент меню"
+
+#: ../functions/customizer/sections/color-scheme.php:150 ..
+#: functions/customizer/sections/color-scheme.php:211
+msgid "Menu Item Hover"
+msgstr "Подсветка элемента меню"
+
+#: ../functions/customizer/sections/color-scheme.php:160 ..
+#: functions/customizer/sections/color-scheme.php:221
+msgid "Menu Current Item"
+msgstr "Текущий элемент меню"
+
+#: ../functions/customizer/sections/color-scheme.php:280 ..
+#: functions/customizer/sections/color-scheme.php:400 ..
+#: functions/customizer/sections/typography.php:461
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: ../functions/customizer/sections/color-scheme.php:290 ..
+#: functions/customizer/sections/color-scheme.php:410
+msgid "Post Title Hover"
+msgstr "Подсветка заголовка записи"
+
+#: ../functions/customizer/sections/color-scheme.php:320 ..
+#: functions/customizer/sections/color-scheme.php:440 ..
+#: functions/customizer/sections/color-scheme.php:561
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: ../functions/customizer/sections/color-scheme.php:330 ..
+#: functions/customizer/sections/color-scheme.php:450 ..
+#: functions/customizer/sections/color-scheme.php:571
+msgid "Post Meta Link"
+msgstr "Мета ссылки записи"
+
+#: ../functions/customizer/sections/color-scheme.php:340 ..
+#: functions/customizer/sections/color-scheme.php:460 ..
+#: functions/customizer/sections/color-scheme.php:581
+msgid "Post Meta Link Hover"
+msgstr "Подсветка мета ссылок записи"
+
+#: ../functions/customizer/sections/color-scheme.php:391 ..
+#: functions/widgets/recentposts.php:21
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: ../functions/customizer/sections/color-scheme.php:651 ..
+#: functions/customizer/sections/typography.php:400
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: ../functions/customizer/sections/color-scheme.php:671
+msgid "Footer Background Color"
+msgstr "Цвет фона в footer"
+
+#: ../functions/customizer/sections/color-scheme.php:681
+msgid "Footer Menu Link"
+msgstr "Ссылки в footer"
+
+#: ../functions/customizer/sections/color-scheme.php:691
+msgid "Footer Menu Link Hover"
+msgstr "Подсветка ссылок в footer"
+
+#: ../functions/customizer/sections/footer.php:21
+msgid "Number of Widget Areas"
+msgstr "Число областей для виджетов"
+
+#: ../functions/customizer/sections/footer.php:32
+msgid "Footer Text"
+msgstr "Текст в footer"
+
+#: ../functions/customizer/sections/general.php:12 ..
+#: functions/customizer/sections/general.php:21
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../functions/customizer/sections/general.php:31
+msgid "Retina Ready?"
+msgstr "Для ретины?"
+
+#: ../functions/customizer/sections/general.php:40
+msgid "Favicon"
+msgstr "Фавикон"
+
+#: ../functions/customizer/sections/general.php:41
+msgid ""
+"File must be <strong>.png</strong> or <strong>.ico</strong> format. Optimal "
+"dimensions: <strong>32px x 32px</strong>."
+msgstr ""
+"Разрешение должно быть либо <strong>.png</strong>, либо <strong>."
+"ico</strong>. Оптимальный размер: <strong>32px на 32px</strong>."
+
+#: ../functions/customizer/sections/header.php:13
+msgid "Search Form"
+msgstr "Поиск"
+
+#: ../functions/customizer/sections/header.php:21
+msgid "Hide Search Field"
+msgstr "Спрятать поле поиска"
+
+#: ../functions/customizer/sections/site-title-tagline.php:27
+msgid "Hide Tagline"
+msgstr "Скрыть тэглайн"
+
+#: ../functions/customizer/sections/typography.php:30
+msgid "Body"
+msgstr "Body"
+
+#: ../functions/customizer/sections/typography.php:82
+msgid "Site Title"
+msgstr "Заголовок сайта"
+
+#: ../functions/customizer/sections/typography.php:407
+msgid "Widgets Font Family"
+msgstr "Шрифты виджетов"
+
+#: ../functions/customizer/sections/typography.php:417
+msgid "Widgets Font Size (in px)"
+msgstr "Размер шрифта виджетов (px)"
+
+#: ../functions/customizer/sections/typography.php:524
+msgid "Single Post Title"
+msgstr "Заголовок одиночной записи"
+
+#: ../functions/customizer/sections/typography.php:585
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: ../functions/widgets/carousel.php:155
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../functions/widgets/carousel.php:160
+msgid "Show"
+msgstr "Показать"
+
+#: ../functions/widgets/carousel.php:161
+msgid "posts"
+msgstr "записи"
+
+#: ../functions/widgets/carousel.php:167
+msgid "Auto-Scroll"
+msgstr "автопрокрутка"
+
+#: ../functions/widgets/carousel.php:169
+msgid "Automatically scroll through the posts"
+msgstr "Автопрокрутка записи"
+
+#: ../functions/widgets/carousel.php:175
+msgid "Show Navigation Dots"
+msgstr "Показать навигационные точки"
+
+#: ../functions/widgets/carousel.php:181
+msgid "Show Category"
+msgstr "Показать категорию"
+
+#: ../functions/widgets/carousel.php:186
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: ../functions/widgets/carousel.php:190
+msgid "Posts to Display:"
+msgstr "Отображать записи:"
+
+#: ../functions/widgets/carousel.php:192
+msgid "Categories"
+msgstr "Категории"
+
+#: ../functions/widgets/carousel.php:193
+msgid "Tag(s)"
+msgstr "Метки:"
+
+#: ../functions/widgets/carousel.php:199
+msgid "Category (if selected above):"
+msgstr "Категория (если выбрана):"
+
+#: ../functions/widgets/carousel.php:227
+msgid "Tag slugs (if selected above, separated by comma \",\"):"
+msgstr "Ссылки меток (если выбрано выше, разделены запятыми \",\"):"
+
+#: ../functions/widgets/featured-category.php:13
+msgid "Featured Category Widget for Homepage"
+msgstr "Виджет «Избранная категория» для домашней страницы"
+
+#: ../functions/widgets/featured-category.php:19
+msgid "Featured Category"
+msgstr "Избранная категория"
+
+#: ../functions/widgets/featured-category.php:166 ..
+#: functions/widgets/recentposts.php:128
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ../functions/widgets/featured-category.php:173
+msgid "Display Title"
+msgstr "Показывать заголовок"
+
+#: ../functions/widgets/featured-category.php:179 ..
+#: functions/widgets/recentposts.php:133
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../functions/widgets/featured-category.php:181
+msgid "Choose category:"
+msgstr "Выбрать категорию:"
+
+#: ../functions/widgets/featured-category.php:199
+msgid "Numbers of posts:"
+msgstr "Число записей:"
+
+#: ../functions/widgets/featured-category.php:217
+msgid "Skip (offset) first"
+msgstr "Пропускать первую"
+
+#: ../functions/widgets/featured-category.php:218
+msgid "posts from category"
+msgstr "Записи из категории"
+
+#: ../functions/widgets/featured-category.php:222
+msgid ""
+"This option is useful when you want to have two widgets side by side showing "
+"latest 2 posts from the same category."
+msgstr ""
+"Эта опция полезна, когда вы хотите иметь два соседствующих виджета "
+"показывающих 2 последние записи из одной категории."
+
+#: ../functions/widgets/featured-category.php:227
+msgid "Exclude Featured Posts from Widget"
+msgstr "Исключить избранные записи из виджета"
+
+#: ../functions/widgets/featured-category.php:233
+msgid "Display Date"
+msgstr "Отображать дату"
+
+#: ../functions/widgets/featured-category.php:238
+msgid "Display Comments Number"
+msgstr "Отображать число комментариев"
+
+#: ../functions/widgets/featured-category.php:243
+msgid "Display Excerpt for Latest Post"
+msgstr "Показывать выдержку для последней записи"
+
+#: ../functions/widgets/featured-category.php:248
+msgid "Display Thumbnail for Other Posts"
+msgstr "Показывать миниатюры для других записей"
+
+#: ../functions/widgets/recentposts.php:18
+msgid "WPZOOM: Recent Posts"
+msgstr "WPZOOM: Последние записи"
+
+#: ../functions/widgets/recentposts.php:153
+msgid "Show:"
+msgstr "Показывать:"
+
+#: ../functions/widgets/recentposts.php:159
+msgid "Hide post title"
+msgstr "Спрятать заголовок записи"
+
+#: ../functions/widgets/recentposts.php:164
+msgid "Display post date"
+msgstr "Показывать дату записи"
+
+#: ../functions/widgets/recentposts.php:169
+msgid "Display post thumbnail"
+msgstr "Показывать миниатюру записи"
+
+#: ../functions/widgets/recentposts.php:177
+msgid "Thumbnail size:"
+msgstr "Размер миниатюры:"
+
+#: ../functions/widgets/recentposts.php:185
+msgid "Display post excerpt"
+msgstr "Показывать выдержку из записи"
+
+#: ../functions/widgets/recentposts.php:189
+msgid "Excerpt character limit:"
+msgstr "Размер выдержки:"
+
+#: ../functions/wpzoom/wpzoom.php:155
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#: ../functions/wpzoom/wpzoom.php:156
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../functions/wpzoom/wpzoom.php:159
+msgid "Framework Update"
+msgstr "Обновление фреймворка"
+
+#: ../functions/wpzoom/components/medialib-uploader.php:15
+msgid "WPZOOM Exporter"
+msgstr "WPZOOM Экспортёр"
+
+#: ../functions/wpzoom/components/medialib-uploader.php:38
+msgid "Upload"
+msgstr "Загрузить"
+
+#: ../functions/wpzoom/components/medialib-uploader.php:40
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите свою версию WordPress для полноценной поддержки медиа."
+
+#: ../functions/wpzoom/components/medialib-uploader.php:60
+msgid "View File"
+msgstr "Посмотреть файл"
+
+#: ../functions/wpzoom/components/video-thumb.php:86
+msgid ""
+"<strong>NOTICE!&nbsp;&nbsp;Unable to fetch video "
+"thumbnail</strong><br/>Either an invalid embed code was provided, or there "
+"is no thumbnail available for the specified video&hellip;<br/><small "
+"id=\"wpz_autothumb_remind\"><strong>REMINDER:</strong> You can always manually "
+"upload a featured image via the WordPress Media Uploader.</small>"
+msgstr ""
+"<strong>Внимание!&nbsp;&nbsp;Не удаётся получить миниатюру "
+"видеозаписи</strong><br/>Либо предоставлен неверный встраиваемый код, либо "
+"миниатюра отсутствует для данной видеозаписи&hellip;<br/><small "
+"id=\"wpz_autothumb_remind\"><strong>Напоминаем:</strong>Вы всегда можете "
+"загрузить свою миниатюру с помощью WordPress Media Uploader.</small>"
+
+#: ../functions/wpzoom/components/admin/settings-page.php:132
+msgid "For more information:"
+msgstr "Больше информации:"
+
+#: ../functions/wpzoom/components/admin/settings-page.php:133
+msgid ""
+"<a href=\"http://www.wpzoom.com/support/documentation\" "
+"target=\"_blank\">Documentation and Tutorials</a>"
+msgstr ""
+"<a href=\"http://www.wpzoom.com/support/documentation\" "
+"target=\"_blank\">Документация и уроки</a>"
+
+#: ../functions/wpzoom/components/admin/settings-page.php:134
+msgid "<a href=\"http://www.wpzoom.com/support/\" target=\"_blank\">Support Desk</a>"
+msgstr "<a href=\"http://www.wpzoom.com/support/\" target=\"_blank\">Поддержка</a>"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:69 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:81
+msgid "Portfolio Items"
+msgstr "Части портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:70 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:72
+msgid "Portfolio Item"
+msgstr "Часть портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:71 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:84 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:121 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:123
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:73
+msgid "Add New"
+msgstr "Добавить"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:74
+msgid "Add New Portfolio Item"
+msgstr "Добавить в портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:75
+msgid "Edit Portfolio Item"
+msgstr "Изменить элемент портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:76
+msgid "New Portfolio Item"
+msgstr "Новый элемент портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:77
+msgid "View Portfolio Item"
+msgstr "Посмотреть элемент портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:78
+msgid "Search Portfolio"
+msgstr "Искать портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:79
+msgid "No portfolio items found"
+msgstr "Не найдены элементы портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:80
+msgid "No portfolio items found in trash"
+msgstr "В корзине не найдены элементы портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:120 ..
+#: functions/wpzoom/components/portfolio/portfolio.php:122
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:124
+msgid "Search Portfolios"
+msgstr "Искать по портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:125
+msgid "Popular Portfolios"
+msgstr "Популярные портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:126
+msgid "All Portfolios"
+msgstr "Все портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:127
+msgid "Edit Portfolio"
+msgstr "Изменить портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:128
+msgid "View Portfolio"
+msgstr "Посмотреть портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:129
+msgid "Update Portfolio"
+msgstr "Обновить портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:130
+msgid "Add New Portfolio"
+msgstr "Добавить портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:131
+msgid "New Portfolio Name"
+msgstr "Имя нового портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:132
+msgid "Separate portfolios with commas"
+msgstr "Разделяйте портфолио запятыми"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:133
+msgid "Add or remove portfolios"
+msgstr "Добавить или удалить портфолио"
+
+#: ../functions/wpzoom/components/portfolio/portfolio.php:134
+msgid "Choose from the most used portfolios"
+msgstr "Выберите наиболее используемые портфолио"
+
+#: ../functions/wpzoom/components/portfolio/walker-category-filter.php:13
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "Посмотреть все записи поданные до %s"
+
+#: ../functions/wpzoom/components/portfolio/walker-category-filter.php:29
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Загрузить для всех записей поданных до %s"
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:31
+msgid "Customize the Shortcode"
+msgstr "Изменить короткий код"
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:40
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: ../functions/wpzoom/components/shortcodes/dialog.php:54
+msgid "Your version of theme does not yet support shortcodes."
+msgstr "Ваша версия темы не поддерживает короткие коды"
+
+#: ../page-templates/archives.php:26
+msgid "Popular Categories:"
+msgstr "Популярные категории:"
+
+#: ../page-templates/archives.php:36
+msgid "Archives:"
+msgstr "Архивы:"
+
+#: ../page-templates/archives.php:45
+msgid "Tags:"
+msgstr "Метки:"

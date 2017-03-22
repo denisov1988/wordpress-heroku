@@ -1,0 +1,94 @@
+Foodica
+http://www.wpzoom.com/themes/foodica
+
+CHANGELOG
+---------
+
+v 1.3.0 (August 22, 2016)
+
+    - Improved Theme Customizer with Partial Refresh for Typography and Color Scheme
+
+
+v 1.2.1 (April 2, 2016)
+
+    - Added 3 new Color Styles: Orange, Teal, Turquoise.
+
+
+v 1.2.0 (April 1, 2016)
+
+    - Added multiple font styling options in the Customizer (Font Weight, Font Style, Text Transform)
+    - Added new color options in the Customizer.
+    - "List" layout for posts was changed into a traditional blog layout.
+    - New section in Theme Options - "Category Posts", which allows to customize posts options on Category pages.
+    - Homepage Slider now works with pages. You can find this option in the Theme Options > Homepage > Homepage Slideshow > Content Source.
+    - Added Category description on Category pages
+    - Numerous improvements and bug fixes.
+    !! Thumbnails regeneration is required if you update from an older version. See instructions: http://bit.ly/1MYpMeb
+
+
+v 1.1.2 (January 30, 2016)
+
+    - /css/media-queries.css - bug fix with widget area below the slider showing widgets incorrectly on tablets
+
+
+v 1.1.1 (December 15, 2015)
+
+    - content-single.php - Bug fix with incorrect size for Featured Image at the top.
+
+
+v 1.1.0 (December 9, 2015)
+
+    - New Feature: Homepage & Category pages layout can be changed from Theme Options > Layouts. Now you can hide the sidebar on front page and show posts in 3 columns.
+    - Added support for Jetpack Infinite Scroll
+    - Minor bug fixes. Thumbnails regeneration may be needed.
+    - modified files:
+        - /css/media-queries.css
+        - /functions/widgets/carousel.php
+        - /functions/widgets/featured-category.php
+        - /functions/functions.php
+        - /functions/options.php
+        - archive.php
+        - content.php
+        * content-sticky.php - new file
+        - footer.php
+        - index.php
+        - search.php
+        - style.css
+        - wpzoom-slider.php
+
+
+v 1.0.4 (October 17, 2015)
+
+    - Minor bug fixed in the slider in Firefox 41.0.2.
+    - modified files:
+        - style.css
+
+
+v 1.0.3 (September 14, 2015)
+
+    - Fixed a bug with translations.
+    - Added new translation files for Russian language.
+    - modified files:
+        - /languages/en_US.pot renamed to foodica.pot
+        - style.css
+
+
+v 1.0.2 (July 30, 2015)
+
+    - content-single.php - Fixed a bug with "Pin it" button from individual posts.
+
+
+v 1.0.1 (July 17, 2015)
+
+    - Added "Full-width" template for posts.
+    - modified files:
+        - /functions/functions.php
+        - /functions/post-options.php
+        - content-single.php
+        - single.php
+        - style.css
+
+
+v 1.0 (June 9, 2015)
+
+	- initial release
